@@ -1,0 +1,7 @@
+matplotlib.pyblot
+plot(x ,y); show() #crea graficas definiendole x y y
+
+JSON view
+MODheader
+
+json.dumps
