@@ -5,3 +5,45 @@ JSON view
 MODheader
 
 json.dumps
+pip install xlrd .....  import pandas as pd
+pd.ExcelFile(pathfile)
+
+pip scipy numpy scikit-learn ipython "ipython[notebook]"
+
+jupyter notebook
+
+
+ver como exportar excel a db y viceversa
+
+
+advertising dataset python
+Introduction to Machine Learning with Python de Andreas C. muller
+editorial O'Reilly
+https://books.google.com.mx/books?id=1-4lDQAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false
+https://www.academia.edu/34432405/Introduction_to
+kaggle.com
+
+aprendizaje supervisado clasificacion
+- KNN
+- Logistic Regression
+- Naive Bayes
+- Decision tree
+- Random forest
+
+aprendizaje supervisado clasificacion
+- Linear regression
+- SVM
+- Lasso Regression
+
+aprendizaje no supervisado Clustering
+- K-Means
+- Affinity Propagation
+- OPTICS
+- Spectral Clustering
+- BIRCH
+- DBSCAN
+
+aprendizaje no supervisado Association
+- Apriori
+- Eclat
+- FP-growth

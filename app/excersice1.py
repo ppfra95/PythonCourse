@@ -31,7 +31,7 @@ while play:
 
     question = json.loads(r.text)
     #print(html.unescape(r.text))
-    pprint.pprint(question)
+    #pprint.pprint(question)
     answers=printQuestion(question)
 
     ans=0
